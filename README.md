@@ -1,7 +1,7 @@
 # ctci-journey
 
 ## What is this repository for?
-I used this repository as a place where I store all my answers for CTCI. It is quite a popular book for learning technical interviews.
+I used this repository as a place where I store all my answers for Cracking the Coding Interview, a popular book for learning algorithms and data structures questions in interviews.
 
 ## Why do you create this repository?
 I enjoy and want to be good at solving problems. Sharing my attempt to public will (1) make me more accountable and (2) a learning chance for me to articulate my works to others.
